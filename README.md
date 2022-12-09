@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+If you used the stencil code, this is https://uwupanda333.github.io/Portfolio/
 
 ### Goal and Value of the Application
 
